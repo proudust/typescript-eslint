@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "@typescript-eslint/experimental-utils": "3.0.2",
+    "@typescript-eslint/scope-manager": "3.0.2",
     "functional-red-black-tree": "^1.0.1",
     "regexpp": "^3.0.0",
     "semver": "^7.3.2",
